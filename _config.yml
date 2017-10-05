@@ -1,1 +1,21 @@
 theme: jekyll-theme-minimal
+
+#
+# Collections
+#
+collections:
+  pictures:
+    output: true
+    permalink: /photo/:id/
+
+#
+# Default values
+#
+defaults:
+  # _pictures
+  -
+    scope:
+      path: ""
+      type: pictures
+    values:
+      layout: photo
