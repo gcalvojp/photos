@@ -1,5 +1,5 @@
 ---
-id: golden-gai-streets
+title: golden-gai-streets
 images:
   - width: 400
     height: 267

@@ -1,5 +1,5 @@
 ---
-id: showa-corner-in-yokohama
+title: showa-corner-in-yokohama
 images:
   - width: 400
     height: 267

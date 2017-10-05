@@ -1,5 +1,5 @@
 ---
-id: g-cans-project
+title: g-cans-project
 images:
   - width: 400
     height: 267

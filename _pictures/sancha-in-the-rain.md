@@ -1,5 +1,5 @@
 ---
-id: sancha-in-the-rain
+title: sancha-in-the-rain
 images:
   - width: 400
     height: 267

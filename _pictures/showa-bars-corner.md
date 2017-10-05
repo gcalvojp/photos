@@ -1,5 +1,5 @@
 ---
-id: showa-bars-corner
+title: showa-bars-corner
 images:
   - width: 400
     height: 267

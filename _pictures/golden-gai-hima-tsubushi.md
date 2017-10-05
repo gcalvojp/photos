@@ -1,5 +1,5 @@
 ---
-id: golden-gai-hima-tsubushi
+title: golden-gai-hima-tsubushi
 images:
   - width: 400
     height: 267

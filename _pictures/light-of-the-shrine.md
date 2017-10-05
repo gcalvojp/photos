@@ -1,5 +1,5 @@
 ---
-id: light-of-the-shrine
+title: light-of-the-shrine
 images:
   - width: 400
     height: 267

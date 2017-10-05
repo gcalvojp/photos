@@ -1,5 +1,5 @@
 ---
-id: nakamise-shotengai
+title: nakamise-shotengai
 images:
   - width: 400
     height: 267

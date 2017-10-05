@@ -1,5 +1,5 @@
 ---
-id: standing-tsutengaku
+title: standing-tsutengaku
 images:
   - width: 400
     height: 267

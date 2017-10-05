@@ -1,5 +1,5 @@
 ---
-id: nuka-cola
+title: nuka-cola
 images:
   - width: 400
     height: 267

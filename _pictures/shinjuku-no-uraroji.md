@@ -1,5 +1,5 @@
 ---
-id: shinjuku-no-uraroji
+title: shinjuku-no-uraroji
 images:
   - width: 400
     height: 267

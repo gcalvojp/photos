@@ -1,5 +1,5 @@
 ---
-id: osaka-dotonbori
+title: osaka-dotonbori
 images:
   - width: 400
     height: 267

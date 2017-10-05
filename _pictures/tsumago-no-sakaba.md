@@ -1,5 +1,5 @@
 ---
-id: tsumago-no-sakaba
+title: tsumago-no-sakaba
 images:
   - width: 400
     height: 267

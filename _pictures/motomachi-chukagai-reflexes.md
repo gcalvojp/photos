@@ -1,5 +1,5 @@
 ---
-id: motomachi-chukagai-reflexes
+title: motomachi-chukagai-reflexes
 images:
   - width: 400
     height: 267

@@ -1,5 +1,5 @@
 ---
-id: strange-nichijo
+title: strange-nichijo
 images:
   - width: 400
     height: 267

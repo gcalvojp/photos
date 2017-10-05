@@ -1,5 +1,5 @@
 ---
-id: pachinko
+title: pachinko
 images:
   - width: 400
     height: 267

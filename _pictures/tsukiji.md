@@ -1,5 +1,5 @@
 ---
-id: tsukiji
+title: tsukiji
 images:
   - width: 400
     height: 267

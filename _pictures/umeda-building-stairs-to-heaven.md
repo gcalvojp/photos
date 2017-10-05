@@ -1,5 +1,5 @@
 ---
-id: umeda-building-stairs-to-heaven
+title: umeda-building-stairs-to-heaven
 images:
   - width: 400
     height: 267

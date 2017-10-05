@@ -1,5 +1,5 @@
 ---
-id: nikko-abandoned-lake
+title: nikko-abandoned-lake
 images:
   - width: 400
     height: 267

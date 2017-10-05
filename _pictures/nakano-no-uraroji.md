@@ -1,5 +1,5 @@
 ---
-id: nakano-no-uraroji
+title: nakano-no-uraroji
 images:
   - width: 400
     height: 267

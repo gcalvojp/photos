@@ -1,5 +1,5 @@
 ---
-id: misty-nikko
+title: misty-nikko
 images:
   - width: 400
     height: 267

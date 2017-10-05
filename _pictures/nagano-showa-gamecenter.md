@@ -1,5 +1,5 @@
 ---
-id: nagano-showa-gamecenter
+title: nagano-showa-gamecenter
 images:
   - width: 400
     height: 267
