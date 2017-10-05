@@ -8,7 +8,7 @@ baseurl: /photos
 collections:
   pictures:
     output: true
-    permalink: /photo/:slug/
+    permalink: /photo/:title/
 
 #
 # Default values
