@@ -6,7 +6,7 @@ theme: jekyll-theme-minimal
 collections:
   pictures:
     output: true
-    permalink: /photo/:id/
+    permalink: /photo/:slug/
 
 #
 # Default values
